@@ -195,7 +195,8 @@ transform = transforms.Compose([
 ])
 
 ```
-訓練過程中，我們記錄了模型在訓練集和測試集上的準確率和損失值，以評估模型的性能。
+訓練過程中，我們記錄了模型在訓練集和測試集上的準確率和損失值，以評估模型的性能。  
+[Best_Models](https://huggingface.co/Okra77/Cats_vs_Dogs_v2/tree/main)
 
 ## 實驗結果
 **準確率**
