@@ -59,12 +59,12 @@ if best_model_path:
 else:
     print('No best model found.')
 ```
-Epoch 1, Loss: 0.06807169313670601, acc: 98.22
-Epoch 2, Loss: 0.04478731499036075, acc: 98.16
-Epoch 3, Loss: 0.04207785350538325, acc: 98.68
-Epoch 4, Loss: 0.029907871747447645, acc: 98.32
-Epoch 5, Loss: 0.027521255947111058, acc: 98.38
-Loaded best model from: model_epoch_2.pth
+Epoch 1, Loss: 0.06807169313670601, acc: 98.22  
+Epoch 2, Loss: 0.04478731499036075, acc: 98.16  
+Epoch 3, Loss: 0.04207785350538325, acc: 98.68  
+Epoch 4, Loss: 0.029907871747447645, acc: 98.32  
+Epoch 5, Loss: 0.027521255947111058, acc: 98.38  
+Loaded best model from: model_epoch_2.pth  
 
 **val**
 ```
@@ -152,12 +152,12 @@ if best_model_path:
 else:
     print('No best model found.')
 ```
-Epoch 1, Loss: 0.0604, Test Acc: 98.70
-Epoch 2, Loss: 0.0309, Test Acc: 98.74
-Epoch 3, Loss: 0.0307, Test Acc: 98.46
-Epoch 4, Loss: 0.0223, Test Acc: 98.62
-Epoch 5, Loss: 0.0219, Test Acc: 98.54
-Loaded best model from: 2_ConvNeXt_model_epoch_1.pth
+Epoch 1, Loss: 0.0604, Test Acc: 98.70  
+Epoch 2, Loss: 0.0309, Test Acc: 98.74  
+Epoch 3, Loss: 0.0307, Test Acc: 98.46  
+Epoch 4, Loss: 0.0223, Test Acc: 98.62  
+Epoch 5, Loss: 0.0219, Test Acc: 98.54  
+Loaded best model from: 2_ConvNeXt_model_epoch_1.pth  
 
 **val**
 ```
@@ -827,23 +827,23 @@ print("Top 5 important feature indices for cat class:", top5_feature_indices)
 ```
 Top 5 important feature indices for cat class: [1031 1377  236  127  723]
 
-**1031**
+## 1031
 ![image](https://hackmd.io/_uploads/r1MZpOwdA.png)
 ![image](https://hackmd.io/_uploads/H1EUTOvu0.png)
 
-**1377**
+## 1377
 ![image](https://hackmd.io/_uploads/HJzf6dvuC.png)
 ![image](https://hackmd.io/_uploads/ByVDT_P_R.png)
 
-**236**
+## 236
 ![image](https://hackmd.io/_uploads/rJZQ6uw_0.png)
 ![image](https://hackmd.io/_uploads/ryM_T_wO0.png)
 
-**127**
+## 127
 ![image](https://hackmd.io/_uploads/HkxNaOwOR.png)
 ![image](https://hackmd.io/_uploads/rJodp_wdC.png)
 
-**723**
+## 723
 ![image](https://hackmd.io/_uploads/BJ1ra_vO0.png)
 ![image](https://hackmd.io/_uploads/BJPtauv_A.png)
 
