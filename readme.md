@@ -201,14 +201,14 @@ transform = transforms.Compose([
 **準確率**
 在訓練後，兩種模型在驗證集上的準確率結果如下：
 
-ResNet101：準確率為 98.25%
+ResNet101：準確率為 98.25%  
 ConvNeXT-tiny：準確率為 98.80%
 
 > 從結果可以看出，兩種模型在貓狗分類任務中的準確率相近，差異微乎其微。
 
 **訓練時間**
 訓練時間的比較結果如下：
-ResNet101：訓練總時長約30min
+ResNet101：訓練總時長約30min  
 ConvNeXT-tiny：訓練總時長約10min
 
 > ConvNeXT 模型的訓練時間略低於 ResNet101，顯示出其在訓練效率上的潛在優勢。
